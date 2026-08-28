@@ -5,7 +5,7 @@ Student: 1852275
 
 Studentnummer: Ali Albonaser
 
-Link naar deze repository: https://github.com/HU-ICT-AI-2023/ap-1-her-memory-management-poging-2-alialbonaser204
+Link naar deze repository: https://github.com/alialbonaser204/Memory_managment
 
 Deze repository bevat de uitwerking van bovengenoemde student van Summatieve Opdracht 1, voor het vak Adaptive Programming aan de HU, cursusjaar 2023-2024.
 
